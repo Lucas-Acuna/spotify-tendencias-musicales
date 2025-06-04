@@ -37,6 +37,17 @@ Explorar las variaciones en el ranking semanal del top musical en Spotify Argent
 
 El análisis muestra cómo ciertas canciones irrumpen en el top de forma atípica, lo que puede ser reflejo de fenómenos virales o campañas de marketing agresivas.
 
+📌 Conclusiones Finales
+
+Este análisis permitió explorar de forma automatizada las tendencias musicales semanales en Spotify Argentina durante 2025. A través de técnicas de Web Scraping, se extrajo información directamente desde un sitio de rankings públicos, facilitando el acceso a datos actualizados sin intervención manual.
+
+✅ Hallazgos principales:
+	•	Se detectaron canciones con variaciones abruptas en el ranking, ya sea por subas o caídas inesperadas, marcando posibles lanzamientos virales o fenómenos efímeros.
+	•	Se identificaron anomalías en el comportamiento de ciertos artistas o tracks que ingresaron o salieron del Top 10 de forma repentina.
+	•	La herramienta mostró potencial para el seguimiento en tiempo real de la popularidad musical, útil tanto para análisis de mercado como para estrategias de marketing digital.
+
+🛠 Este proyecto combina automatización (BeautifulSoup + Requests) y análisis temporal de posiciones, demostrando cómo el Data Science puede aportar valor incluso en contextos culturales y de entretenimiento.
+
 ---
 
 ## ✨ Motivación personal
